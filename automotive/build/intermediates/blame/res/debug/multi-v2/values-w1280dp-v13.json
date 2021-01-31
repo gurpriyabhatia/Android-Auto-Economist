@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/android/AndroidStudioProjects/uamp/automotive/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w1280dp-v13/values-w1280dp-v13.xml",
+            "outputFile": "/Users/android/Documents/GitHub/Android-Auto-Economist/automotive/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w1280dp-v13/values-w1280dp-v13.xml",
             "map": [
                 {
                     "source": "/Users/android/.gradle/caches/transforms-2/files-2.1/5d58c3a23eff03269ef977fdc9897871/car-1.0.0-alpha7/res/values-w1280dp-v13/values-w1280dp-v13.xml",

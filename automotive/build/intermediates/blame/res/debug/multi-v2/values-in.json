@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/android/AndroidStudioProjects/uamp/automotive/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml",
+            "outputFile": "/Users/android/Documents/GitHub/Android-Auto-Economist/automotive/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml",
             "map": [
                 {
                     "source": "/Users/android/.gradle/caches/transforms-2/files-2.1/2e2b7d4aff18c7b1b49e98c306622bdd/jetified-exoplayer-ui-2.11.5/res/values-in/values-in.xml",

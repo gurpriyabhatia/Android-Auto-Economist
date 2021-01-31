@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/android/AndroidStudioProjects/uamp/automotive/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml",
+            "outputFile": "/Users/android/Documents/GitHub/Android-Auto-Economist/automotive/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml",
             "map": [
                 {
                     "source": "/Users/android/.gradle/caches/transforms-2/files-2.1/fef5864c6a7930b289fef9c2e004e438/jetified-play-services-basement-17.1.1/res/values-km/values.xml",

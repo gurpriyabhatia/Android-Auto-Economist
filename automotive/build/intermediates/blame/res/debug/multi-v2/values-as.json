@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/android/AndroidStudioProjects/uamp/automotive/build/intermediates/incremental/mergeDebugResources/merged.dir/values-as/values-as.xml",
+            "outputFile": "/Users/android/Documents/GitHub/Android-Auto-Economist/automotive/build/intermediates/incremental/mergeDebugResources/merged.dir/values-as/values-as.xml",
             "map": [
                 {
                     "source": "/Users/android/.gradle/caches/transforms-2/files-2.1/8156b93d29cf8871df48f65476e6e60d/preference-1.1.1/res/values-as/values-as.xml",

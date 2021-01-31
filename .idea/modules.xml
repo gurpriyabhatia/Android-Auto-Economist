@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-Auto-Economist.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-Auto-Economist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-Auto-Economist.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-Auto-Economist.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/automotive/Android-Auto-Economist.automotive.iml" filepath="$PROJECT_DIR$/.idea/modules/automotive/Android-Auto-Economist.automotive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Android-Auto-Economist.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Android-Auto-Economist.common.iml" />
+    </modules>
+  </component>
+</project>

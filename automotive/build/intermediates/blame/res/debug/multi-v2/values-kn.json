@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/android/AndroidStudioProjects/uamp/automotive/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml",
+            "outputFile": "/Users/android/Documents/GitHub/Android-Auto-Economist/automotive/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml",
             "map": [
                 {
                     "source": "/Users/android/.gradle/caches/transforms-2/files-2.1/609074e59cc28e1a29fd65ca567ea5d4/mediarouter-1.0.0/res/values-kn/values-kn.xml",
